@@ -100,3 +100,6 @@ lint/tmp/
 # lint/reports/
 
 gas-report.txt
+
+.prettierignore
+.prettierrc
